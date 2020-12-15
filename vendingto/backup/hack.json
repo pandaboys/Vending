@@ -1,0 +1,21 @@
+{
+  "Test": {
+    "code": [],
+    "amount": 0,
+    "dollar": 1000,
+    "deleted": "false"
+  },
+  "테스트": {
+    "code": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "amount": 6,
+    "dollar": 1000,
+    "deleted": "false"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "server": {
+    "buychannelid": "685719131806236716",
+    "role": "관리자",
+    "acc": "바보",
+    "admin": "",
+    "buyer": "new role"
+  },
+  "webhook": {
+    "hookid": "704239428335435837",
+    "hooktoken": "acSBuzClMCi_nBExQ4UmqP3CfnkO8Eud_aHBlhsbfeYG3dSmU-ooE_daLVIg9RFIY2kx",
+    "channelid": "704239426947252265"
+  }
+}
